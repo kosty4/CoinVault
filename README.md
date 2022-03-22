@@ -13,7 +13,10 @@ HODL the assets without a direct access to them. Don't let the emotions drive yo
 * **Binance Smart Chain mainnet**
 * **Polygon mainnet**
 
-!!! Impotant!!! The smart contract has not been audited by an external party, send funds at your own risk! 
+## Currently supported wallets
+* **Metamask**
+
+!Important! The smart contract has not been audited by an external party, send funds at your own risk! 
 
 ## Technologies used
 
