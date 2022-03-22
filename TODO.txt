@@ -1,0 +1,18 @@
+-Fix slice bug on wallet connection
+-remove negative days and add a marker that a vault is unlocked
+-add hours to vault release
+-add status snackbar on vault creation
+-add status snackbar on vault deposit
+-add "test for 5 min buttom" next to create vault
+-change coin ticker when using different networks
+
+extras:
+- display vault value in usd
+- when depositing to a vault, add "max" to deposit all funds to a wallet
+-detect wallet change and emit event
+
+
+epics:
+-add ability to release to multiple smart contracts
+-unlock frequence&vesting
+-multi token select
